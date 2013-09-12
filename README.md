@@ -7,4 +7,5 @@ v6
 v7
 v8,tortoiseHg credential failed, try cmd this time
 v9,add Git\libexec\git-core to PATH, try win7 cmd this time
-v10, try tortoiseHg credential again
+v10, try tortoiseGit credential again
+v11, use tortoisePLink
